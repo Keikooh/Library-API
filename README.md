@@ -1,12 +1,11 @@
-## LIBRARY-API
+## LIBRARY-API 📕📖 
 
-### Nota
-- Reconstruir modulos de node
-'''
+### Notas
+
+###### Ejecutar archivo SQL para construir la ***BD***
+###### Reconstruir modulos de node y levantar el servidor, puerto 9000
+
+```
     npm install
-'''
-- Levantar el servidor
-'''
     npm run start
-'''
-- Puerto: 9000
+```
